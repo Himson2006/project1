@@ -1,0 +1,195 @@
+
+body{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+.bar{
+    padding-left: 120px; padding-right: 120px; padding-top: 30px; padding-bottom: 20px;
+}
+
+.banner img{
+    height: 250px;
+    width: 850px;
+    margin-top: 60px;
+}
+
+.bannertxt1{
+  font-size: 57px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.heading1{
+    margin-top: 30px;
+}
+.Page1{
+    background-color: #1ABC9C;
+    height: auto;
+}
+.line1{
+    background-color: white;
+    width: 150px;
+    height:5px;
+    border-radius: 12px;
+    margin-left: 120px;
+
+}
+.line2{
+    background-color: white;
+    width: 150px;
+    height:5px;
+    border-radius: 12px;
+    margin-right: 120px;
+}
+.icon1{
+    display: flex;
+    width: 600px;
+    margin-top: 20px;
+    justify-content: center;
+}
+#star1{
+    margin-top: 17px;
+}
+.ideatxt1  p{
+    font-size: 22px;
+    color: white;
+    margin-top: 25px;
+}
+.bannertxt2{
+    font-size: 45px;
+}
+.heading2{
+    display: flex;
+    justify-content:center;
+    margin-top: 80px ;
+    
+}
+.icon2{
+    display: flex;
+    justify-content: center;
+    width: 600px;
+}
+.line3{
+    background-color: #212529;
+    height: 5px;
+    width: 150px;
+    border-radius: 12px;
+    margin-left: 115px
+
+}
+.line4{
+    background-color: #212529;
+    height: 5px;
+    width: 150px;
+    border-radius: 12px;
+    margin-right: 115px;
+}
+.Page2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+}
+#star2{
+    margin-top: 16px;
+}
+.img2 img{
+    height: auto;
+    width: 312px;
+    border-radius: 15px;
+
+}
+.img2{
+    margin-top: 10px;
+    padding: 70px;
+}
+#second{
+    margin-top: 40px;
+}
+.column{
+    margin-left: 20px;
+}
+.bannertxt3{
+    font-size: 45px ;
+}
+.heading3{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    color: white;
+}
+.Page3{
+    background-color: #1ABC9C;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}
+.icon3{
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    align-items: center;
+}
+.line5{
+    background-color: white;
+    height: 5px;
+    width: 150px;
+    border-radius: 12px;
+    margin-left: 115px
+
+}
+.line6{
+    background-color: white;
+    height: 5px;
+    width: 150px;
+    border-radius: 12px;
+    margin-right: 115px;
+}
+.form1{
+    margin-top: 50px;
+}
+.Page4{
+    background-color: #2C3E50;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}
+.fb{
+    margin-right: 20px;
+}
+.tweet{
+    margin-right: 20px;
+}
+.insta{
+    margin-right: 20px;
+}
+.socialImg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    margin-left: 20px;
+    width: 111px;
+    margin-bottom: 40px;
+}
+.picc{
+    width: 300px;
+    border-radius: 25px;
+    margin-top: 35px ;
+    
+}
